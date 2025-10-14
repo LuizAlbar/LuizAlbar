@@ -7,18 +7,16 @@
 <h3 align="left">Olá! Bem-vindo ao meu GitHub!👨‍💻</h3>
 
 <p align="left">
-👋 Olá! Desenvolvo soluções backend em Python, criando APIs, automações e integrações de sistemas. Busco aplicar boas práticas de programação para construir projetos eficientes, escaláveis e confiáveis, sempre priorizando código limpo, manutenível e alinhado com padrões modernos de desenvolvimento.
+👋 Olá! Desenvolvo soluções backend em Python e Node.js, criando APIs, automações e integrações de sistemas. Aplico boas práticas, princípios SOLID e arquitetura limpa para construir projetos eficientes, escaláveis e confiáveis, sempre priorizando código limpo, testabilidade e manutenção facilitada.
 </p>
 
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height="40" src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,git,docker" />
+    <img height="40" src="https://skillicons.dev/icons?i=python,fastapi,typescript,nodejs,postgres,mongodb,redis,docker" />
   </a>
 </p>
-
-
 
 <details>
   <summary>
@@ -26,9 +24,9 @@
   </summary>
   <br />
   
-  - 🚀 Transformo desafios complexos de backend em soluções confiáveis e escaláveis.  
-  - 🧠 Automação de processos e integração de sistemas para economizar tempo e reduzir erros.  
-  - 🔒 Código limpo, seguro e eficiente, priorizando manutenção e performance.  
+  - 🚀 Converto desafios complexos de backend em soluções confiáveis e escaláveis.  
+  - 🧠 Crio automações e integrações que reduzem trabalho manual e riscos operacionais.  
+  - 🔒 Entrego código seguro, testável e com foco em performance e manutenção.  
 </details>
 
 <details>
@@ -37,28 +35,35 @@
   </summary>
   <br />
   
-  - 🐍 Python: construindo APIs, automações e scripts eficientes.  
-  - ⚡ FastAPI & SQLAlchemy: criando backends rápidos, seguros e escaláveis.  
-  - 🐳 Docker & Git: deploy consistente e versionamento organizado.  
-  - 🗄️ PostgreSQL & SQLite: bancos de dados robustos para qualquer projeto.  
-  - 🧩 Integração de sistemas e APIs: conectando diferentes ferramentas e serviços de forma inteligente.
+  - 🐍 **Python**: APIs, automações e scripts de integração (FastAPI, SQLAlchemy).  
+  - 🟩 **Node.js & TypeScript**: APIs modernas e tipadas (Fastify / Express).  
+  - 🧱 **Princípios SOLID & Arquitetura Limpa**: organização modular e desacoplada.  
+  - 🗄️ **Prisma, PostgreSQL, MongoDB & Redis**: modelagem, persistência e cache.  
+  - 🔐 **JWT & Bcrypt**: autenticação e segurança seguindo boas práticas.  
+  - 🧪 **TDD com Vitest/Jest**: desenvolvimento orientado a testes e cobertura unitária.  
+  - 🐳 **Docker & Docker Compose**: ambientes reprodutíveis para desenvolvimento e deploy.  
+  - 📏 **ESLint, Prettier & Husky**: linting, formatação e hooks de qualidade no CI.  
+  - 🧩 **Integração de sistemas e boas práticas REST**: DTOs, validação, tratamento de erros e contratos claros de API.  
 </details>
 
+### Sobre meu foco técnico
 
-
+- Construção de APIs seguras, performáticas e documentadas.  
+- Projetos desenvolvidos com TDD e atenção à arquitetura desde o início.  
+- Containerização e configuração de ambientes para facilitar integração contínua e deploy.  
+- Adoção de boas práticas (typing, linting, migrations, testes e CI simples).
 
 ##
 <!--<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />-->
 
 <a href="https://www.linkedin.com/in/luizgustavoab/" target="_blank">
     <img align="right" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=luizalbar.ab@gmail.com" target="_blank">
+</a>
+<a href="https://mail.google.com/mail/?view=cm&to=luizalbar.ab@gmail.com" target="_blank">
   <img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-    
-- 💬 Pergunte-me sobre qualquer coisa
+- 💬 Pergunte-me sobre qualquer coisa  
 - 💼 Fique à vontade para entrar em contato
 
 <br />
@@ -71,4 +76,3 @@
     <img height="180em" src="https://github-readme-stats-delta-amber.vercel.app/api/top-langs/?username=LuizAlbar&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
   </a>
 </div>
-
